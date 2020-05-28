@@ -1,5 +1,5 @@
 # kali-keys-from-.xz-compression
-Kali linux images come in various formats ans is supported on many platforms such as VMware, virtualbox, hyper-v, arm-devices, nethunter etc.
+Kali linux images come in various formats and is supported on many platforms such as VMware, virtualbox, hyper-v, arm-devices, nethunter etc.
 The SSH keys are different for each of the images in the below mentioned types.
 
 This code extracts SSH keys from the following type of kali linux images:
